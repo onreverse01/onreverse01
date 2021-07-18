@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[포트폴리오](https://www.notion.so/db1fbef557464d6c9d104be470682ff9)
+
 <!--
 **onreverse01/onreverse01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
