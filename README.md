@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+[onreverse01's GitHub stats](https://github-readme-stats.vercel.app/api?username=onreverse01&show_icons=true&theme=radical)
 
 [포트폴리오](https://agate-wave-a12.notion.site/db1fbef557464d6c9d104be470682ff9)
 
